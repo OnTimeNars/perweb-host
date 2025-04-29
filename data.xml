@@ -1,0 +1,22 @@
+<daftarMhs>
+    <mhs>
+      <nim>J0403241123</nim>
+      <nama>Ibrahim Lutfi</nama>
+      <foto>avatar 1.jpg</foto>
+    </mhs>
+    <mhs>
+      <nim>J0403241101</nim>
+      <nama>Yohanes Halim</nama>
+      <foto>avatar 2.jpg</foto>
+    </mhs>
+    <mhs>
+      <nim>J0401241003</nim>
+      <nama>Nila Hidayat</nama>
+      <foto>avatar 3.jpg</foto>
+    </mhs>
+    <mhs>
+      <nim>J0404231093</nim>
+      <nama>Amir Kasih Subroto</nama>
+      <foto>avatar 4.jpg</foto>
+    </mhs>
+  </daftarMhs>
